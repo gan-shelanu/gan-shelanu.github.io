@@ -6,7 +6,7 @@ Ramat Gan run by the nonprofit גן שותפות הורים (ע"ר), no. 5807060
 - `index.html`: homepage, https://gan-shelanu.github.io
 - `privacy.html`: privacy policy, https://gan-shelanu.github.io/privacy.html
 
-Both URLs are registered on the Google OAuth consent screen of the `gan-bot` Google Cloud project,
+Both URLs are registered on the Google OAuth consent screen of the `gan-shelanu` Google Cloud project,
 so keep them at these paths. Changes to the privacy policy need the chairman's approval; update the
 "עודכן לאחרונה" date when you change it. Served by GitHub Pages from `main`. The bot's code is in
 the private repo `gan-shelanu/gan-bot`.
